@@ -3,7 +3,7 @@
 
 <div align="center">
     <img src="https://github.com/rudram837/recipe_android_project/blob/main/Screenshots/home_recipe.jpg" width="200"> &nbsp;
-    <img src="https://github.com/rudram837/recipe_android_project/blob/main/Screenshots/search.jpg" width="200"> &nbsp;
+    <img src="https://github.com/rudram837/recipe_android_project/blob/main/Screenshots/search.jpg" width="200"> &nbsp; <br><br>
     <img src="https://github.com/rudram837/recipe_android_project/blob/main/Screenshots/category.jpg" width="200"> &nbsp;
     <img src="https://github.com/rudram837/recipe_android_project/blob/main/Screenshots/detail.jpg" width="200"> &nbsp;
 </div>
